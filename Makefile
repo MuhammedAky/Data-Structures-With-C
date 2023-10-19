@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra
 
 # Define source files here
-SRCS = LinkedList.c
+SRCS = Stack.c
 
 # Define the name of the executable
 EXEC = main.exe
