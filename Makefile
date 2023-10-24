@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra
 
 # Define source files here
-SRCS = Stack.c
+SRCS = Queue.c
 
 # Define the name of the executable
 EXEC = main.exe
